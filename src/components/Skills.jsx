@@ -4,17 +4,18 @@ import HTML from "../assets/images/html.png";
 import CSS from "../assets/images/css.png";
 import JavaScript from "../assets/images/javascript.png";
 import ReactImg from "../assets/images/react.png";
-import Node from "../assets/images/node.png";
+// import Node from "../assets/images/node.png";
 import FireBase from "../assets/images/firebase.png";
 import GitHub from "../assets/images/github.png";
 import Tailwind from "../assets/images/tailwind.png";
+import Nextjs from "../assets/images/nextjs.png"
 
 
 const Skills = () => {
   return (
     <div name="skills" className="bg-[#0a192f] text-gray-300 w-full h-screen">
       {/* Container*/}
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full mt-[-300px]">
         <div>
           <p className=" font-bold inline border-b-4 border-pink-600 text-4xl">
             Skills
@@ -40,8 +41,8 @@ const Skills = () => {
             <p className="my-4">REACT</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Node} alt="HTML icon" />
-            <p className="my-4">NODE</p>
+            <img className="w-20 mx-auto" src={Nextjs} alt="HTML icon" />
+            <p className="my-4">NEXT</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={GitHub} alt="HTML icon" />

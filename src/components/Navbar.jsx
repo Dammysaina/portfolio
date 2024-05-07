@@ -7,7 +7,7 @@ import {
 } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Logo from "../assets/images/logo1.png";
+import Logo from "../assets/images/dalogo.png";
 import { Link } from "react-scroll";
 
 const Navbar = () => {
@@ -17,7 +17,7 @@ const Navbar = () => {
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
         <Link to="home" smooth={true} duration={500}>
-          <img src={Logo} alt="Logoimage" style={{ width: "50px" }} />
+          <img src={Logo} alt="Logoimage" style={{ width: "90px" }} className="cursor-pointer"/>
         </Link>
       </div>
 
@@ -52,7 +52,7 @@ const Navbar = () => {
 
       {/* Hamburger */}
       <div onClick={handleClick} className="md:hidden z-10">
-        {!Nav ? <FaBars /> : <FaTimes />}
+        {!Nav ? <FaBars className="bg-[#0a192f]" /> : <FaTimes />}
       </div>
       {/* Mobile Menu */}
       <ul
@@ -107,7 +107,7 @@ const Navbar = () => {
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fe2b0]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#1d2f27]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="mailto:dammyadediran94@gmail.com"
