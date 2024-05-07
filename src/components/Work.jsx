@@ -1,6 +1,7 @@
 import React from "react";
-import WorkImg from "../assets/images/workImg.jpeg";
+import ImassLtd from "../assets/images/imasslimited.png";
 import Realestate from "../assets/images/realestate.jpeg";
+import WorkImg from "../assets/images/workImg.jpeg"
 
 const Work = () => {
   return (
@@ -17,13 +18,13 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/*Grid item*/}
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${ImassLtd})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-              Intercontinental Maritime and Subsea Service Limited Company's website
+              IMASSLtd Website
               </span>
               <div className="pt-8 text-center">
                 <a href="https://www.imasslimited.com/home">
