@@ -23,17 +23,17 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-              IMASSLtd Website
+              <span className="text-xl font-bold text-white justify-center">
+              IMASSLIMITED
               </span>
               <div className="pt-8 text-center">
                 <a href="https://www.imasslimited.com/home">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Demo
                   </button>
                 </a>
                 <a href="https://github.com/Dammysaina/imass">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Code
                   </button>
                 </a>
@@ -51,12 +51,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Demo
                   </button>
                 </a>
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Code
                   </button>
                 </a>
@@ -74,12 +74,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Demo
                   </button>
                 </a>
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Code
                   </button>
                 </a>
@@ -97,12 +97,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Demo
                   </button>
                 </a>
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Code
                   </button>
                 </a>
@@ -120,12 +120,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Demo
                   </button>
                 </a>
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Code
                   </button>
                 </a>
@@ -143,12 +143,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Demo
                   </button>
                 </a>
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Code
                   </button>
                 </a>
