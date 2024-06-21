@@ -1,7 +1,8 @@
 import React from "react";
 import ImassLtd from "../assets/images/imasslimited.png";
 import Realestate from "../assets/images/realestate.jpeg";
-import WorkImg from "../assets/images/workImg.jpeg"
+import WorkImg from "../assets/images/workImg.jpeg";
+import Home from "../assets/images/home.png"
 
 const Work = () => {
   return (
@@ -41,16 +42,16 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${Realestate})` }}
+            style={{ backgroundImage: `url(${Home})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Home
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://www.home4im.com/home">
                   <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Demo
                   </button>
