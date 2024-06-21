@@ -35,11 +35,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Dammysaina/imass">
-                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
-                    Code
-                  </button>
-                </a>
+                
               </div>
             </div>
           </div>
