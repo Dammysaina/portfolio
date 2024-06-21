@@ -58,11 +58,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
-                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
-                    Code
-                  </button>
-                </a>
+                
               </div>
             </div>
           </div>
@@ -76,16 +72,13 @@ const Work = () => {
                 Filmland
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://filmland.vercel.app/">
                   <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
-                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
-                    Code
-                  </button>
-                </a>
+                
+                
               </div>
             </div>
           </div>
@@ -104,11 +97,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
-                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
-                    Code
-                  </button>
-                </a>
+                
               </div>
             </div>
           </div>
@@ -127,11 +116,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
-                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
-                    Code
-                  </button>
-                </a>
+                
               </div>
             </div>
           </div>
@@ -150,11 +135,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
-                  <button className="text-center px-4 py-2 m-2 border-2 text-white hover:bg-pink-600 hover:border-pink-600 text-lg">
-                    Code
-                  </button>
-                </a>
+                
               </div>
             </div>
           </div>
