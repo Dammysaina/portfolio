@@ -3,7 +3,8 @@ import ImassLtd from "../assets/images/imasslimited.png";
 import Realestate from "../assets/images/realestate.jpeg";
 import WorkImg from "../assets/images/workImg.jpeg";
 import Home from "../assets/images/home.png";
-import Filmland from "../assets/images/filmland.png"
+import Filmland from "../assets/images/filmland.png";
+import Gofundme from "../assets/images/gofundme.png"
 
 const Work = () => {
   return (
@@ -89,13 +90,13 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${Realestate})` }}
+            style={{ backgroundImage: `url(${Gofundme})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                GoFundme
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
